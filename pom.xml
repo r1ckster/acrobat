@@ -4,7 +4,7 @@
 
     <groupId>io.r1ck.scripts</groupId>
     <artifactId>acrobat</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
 
     <name>Acrobat</name>
     <description>RuneScape 3 Agility script.</description>
@@ -16,7 +16,7 @@
         <developerConnection>scm:git:git@githubr1ck:r1ckster/acrobat.git
         </developerConnection>
         <url>git@githubr1ck:r1ckster/acrobat.git</url>
-        <tag>v0.0.1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
